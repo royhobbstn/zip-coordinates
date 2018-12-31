@@ -28,4 +28,4 @@ In these situations, and if your application places more of a priority on "put i
 
 You're going to need to have GDAL/OGR, unzip, wget, and NodeJS (10+) installed.
 
-...Or just be lazy and download [the JSON file I checked in]().  I won't judge you either way.
+...Or just be lazy and download [the JSON file I checked in](https://raw.githubusercontent.com/royhobbstn/zip-coordinates/master/zip_lookup.json).  I won't judge you either way.
