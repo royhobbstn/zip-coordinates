@@ -1,0 +1,10 @@
+.idea
+
+*.zip
+*.shp
+*.dbf
+*.shx
+*.cpg
+*.prj
+*.xml
+*.geojson
