@@ -3,7 +3,7 @@ Reasonable Latitude &amp; Longitude Centroid Coordinates for every 5-digit US Po
 
 ## What is this, really?
 
-Say you have an application that needs the coordinates for quite a few ZipCodes.  You dig and dig and gather quite a few.  Just when you think you've got a complete set, a new data point comes in with a brand new zip.  It might even be a typo, but you have no way of knowing.
+Say you have an application that needs the coordinates for quite a few ZipCodes.  Just when you think you've got a complete set, a new data point comes in with a brand new zip.  It might even be a typo, but you have no way of knowing.
 In these situations, and if your application places more of a priority on "put it on the map" rather than "this has to be perfect or I'll get sued", this is a methodology that will get you "close enough".
 
 ## How it works:
