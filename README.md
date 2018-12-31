@@ -26,6 +26,14 @@ In these situations, and if your application places more of a priority on "put i
 
 ### Prerequisities
 
-You're going to need to have GDAL/OGR, unzip, wget, and NodeJS (10+) installed.
+You're going to need to have `GDAL/OGR`, `unzip`, `wget`, and `NodeJS (10+)` installed.
 
-...Or just be lazy and download [the JSON file I checked in](https://raw.githubusercontent.com/royhobbstn/zip-coordinates/master/zip_lookup.json).  I won't judge you either way.
+Then run:
+```
+bash ./setup.sh
+```
+
+
+...OR...
+ 
+ ...be lazy and download [the JSON file I checked in](https://raw.githubusercontent.com/royhobbstn/zip-coordinates/master/zip_lookup.json).  I won't judge you either way.
