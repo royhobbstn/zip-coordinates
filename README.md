@@ -37,3 +37,5 @@ bash ./setup.sh
 ...OR...
  
  ...be lazy and download [the JSON file I checked in](https://raw.githubusercontent.com/royhobbstn/zip-coordinates/master/zip_lookup.json).  I won't judge you either way.
+ 
+ There's also a GeoJSON File if you're into that sort of thing.
