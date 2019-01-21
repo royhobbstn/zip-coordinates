@@ -92,8 +92,6 @@ async function main() {
 
   const geojson_file = {
     "type": "FeatureCollection",
-    "name": "zip_points",
-    "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}},
     "features": features
   };
 
